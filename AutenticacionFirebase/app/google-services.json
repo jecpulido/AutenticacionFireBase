@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "224062987989",
+    "firebase_url": "https://konrad-506172039.firebaseio.com",
+    "project_id": "konrad-506172039",
+    "storage_bucket": "konrad-506172039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224062987989:android:b3abf2382547d6e3",
+        "android_client_info": {
+          "package_name": "com.firebase.autenticacion.autenticacionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224062987989-nshub70mfi9ac0qadnpd7bvhp89s94ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.autenticacion.autenticacionfirebase",
+            "certificate_hash": "34a9940f45d4646b04fa0da620cada0e213231c8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIjTiG-bKhmpDysdilGrs7PbfO9ToJkrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224062987989-uqekm6vptik97n9q0d9oe2km0626i730.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
