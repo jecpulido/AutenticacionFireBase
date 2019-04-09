@@ -17,12 +17,16 @@ public class ChooserActivity extends AppCompatActivity implements AdapterView.On
 
     private static final Class[] CLASSES = new Class[]{
             EmailPasswordActivity.class,
-            GoogleSignInActivity.class
+            GoogleSignInActivity.class,
+            TwitterLoginActivity.class,
+            PhoneAuthActivity.class
     };
 
     private static final int[] DESCRIPTION_IDS = new int[] {
             R.string.desc_emailpassword,
-            R.string.desc_google_sign_in
+            R.string.desc_google_sign_in,
+            R.string.desc_twitter_login,
+            R.string.desc_phone_auth
     };
 
     @Override
